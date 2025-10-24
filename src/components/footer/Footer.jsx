@@ -15,7 +15,7 @@ const Footer = () => {
                             {/* logo */}
                             <div className=" flex gap-2 items-center text-2xl text-white font-bold">
                                 <img src={require("./imgs/Logo.png")} alt="" />
-                                <span>Frank</span>
+                                <span>Babatunde</span>
                             </div>
                             {/* email */}
                             {/* <span className="text-[#ABB2BF]">igboekwulusifranklin@gmail.com</span> */}
